@@ -3,9 +3,9 @@
 ## 🙋 About Me
 
 - 🎓 Passionate about **Data Science & Machine Learning**
-- 💻 I love building projects with **Python & JavaScript**
+- 💻 I love building projects with **Python**
 - 🌱 Currently learning and growing every day
-- 💬 Ask me about **Machine Learning, Data Analysis & Web Development**
+- 💬 Ask me about **Machine Learning, Data Analysis & Data Science**
 - 📫 Reach me at: **github.com/aravinth963**
 
 ---
